@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>logo-ICM.png</file>
+    <file>Logo_UNIZG2.png</file>
+  </qresource>
+</RCC>
